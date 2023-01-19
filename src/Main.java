@@ -47,7 +47,7 @@ public class Main {
                     System.out.println("Bye");
                     break;
                 default:
-                    System.out.println("use +, -, *, /, C - clear, s - quit");
+                    System.out.println("use +, -, *, /, C - clear, s - quit bug_fix");
                     break;
             }
         } while (operation != 's');
